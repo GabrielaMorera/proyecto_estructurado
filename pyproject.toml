@@ -2,11 +2,7 @@
 name = "primer-proyecto"
 version = "0.0.1"
 description = "Es mi primer proyecto bien gestionado"
-<<<<<<< HEAD
 authors = ["Maria Gabriela Morera Murcia"]
-=======
-authors = ["izainea"]
->>>>>>> ae92d98edec2614d4122c6e767ddc00e7ba53edc
 license = "MIT"
 readme = "README.md"
 
